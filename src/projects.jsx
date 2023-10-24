@@ -11,7 +11,7 @@ return(<>
  <div class="main">
   <ul class="cards">
     <li class="cards_item">
-      <div class="card" tabindex="0">
+      <div id = "j"class="card" tabindex="0">
         <div class="card_image"><img src={shop} alt="an online shop . "/></div>
         <div class="card_content">
           
@@ -47,7 +47,7 @@ return(<>
       </div>
     </li>
     <li class="cards_item">
-      <div class="card" tabindex="0">
+      <div id = "j" class="card" tabindex="0">
         <div class="card_image"><img src={alarm} alt="an alarm"/></div>
         <div class="card_content">
          
