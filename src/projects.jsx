@@ -28,7 +28,7 @@ return(<>
     </li>
 
     <li class="cards_item">
-      <div class="card" tabindex="0">
+      <div id = "j"class="card" tabindex="0">
         <div class="card_image profile_pic"><img  id = "profile_pic"src={social} alt="a social media website"/></div>
         <div class="card_content">
        
